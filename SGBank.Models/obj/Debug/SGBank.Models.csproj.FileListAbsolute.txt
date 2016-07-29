@@ -1,0 +1,10 @@
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb

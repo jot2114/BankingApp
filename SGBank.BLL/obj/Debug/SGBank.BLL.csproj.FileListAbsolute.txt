@@ -1,0 +1,27 @@
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\New folder\april\pjselfwork\week4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
